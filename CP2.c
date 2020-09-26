@@ -10,7 +10,7 @@ int main()
     printf("Masukkan nama kamu (maks 6 huruf, 1 kata): ", nama);
     scanf("%s", &nama);
 
-    //memberikan perintah kepada user untuk input umur
+    //memberikan perintah kepada user untuk input tahun lahir
     int umur, hasil;
     printf("Masukkan tahun lahir anda : ", umur);
     scanf("%i", &umur);
